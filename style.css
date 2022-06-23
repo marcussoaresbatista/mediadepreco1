@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+img{
+    display: block;
+margin-left: 150px;
+margin-top: 60px;
+height: 250px;
+}
+
+.main{
+    width:600px;
+    height:900px;
+    background-color:aliceblue;
+   margin-left: 400px;
+}
+
+#caixa-principal{
+    margin-top: 40px;
+    display: block;
+    text-align: center;
+}
+h1{
+    color:black;
+    font-size: 45px;
+   
+    display: block;
+   text-align: center;
+}
+.paragrafo{
+    font-size: 30px;
+  
+    margin-bottom: 15px;
+}
+h2{margin-top: 40px;}
+h3{margin-top: 20px;
+font-size: 30px;}
+
+#compras{
+margin-left: 100px;
+
+
+}
+
+input{
+    width: 180px;
+    height: 30px;
+    border-radius: 0px 3px 3px 0px;
+}
+
+button{
+
+    width: 100px;
+    height: 30px;
+    border-radius: 10px 0px 10px 0px;
+    border: none;
+    cursor: pointer;
+}
